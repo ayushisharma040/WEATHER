@@ -15,24 +15,6 @@ HTML5: Structuring the webpage.
 CSS3: Styling and layout.
 JavaScript: Fetching and displaying real-time weather data.
 Getting Started 💡
-To get started with पर्यावरण, follow these steps:
-
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/पर्यावरण.git
-
-
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd पर्यावरण
-
-
-Open the Index File:
-Open index.html in your web browser.
 
 Search for a City:
 Enter the name of any city in the search bar and press enter to view the weather update.
@@ -48,4 +30,4 @@ License 📄
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact 📬
-For any questions or feedback, please reach out to your-ayushianjana2004@gmail.com.
+For any questions or feedback, please reach out to your- ayushianjana2004@gmail.com.
